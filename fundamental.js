@@ -5,8 +5,8 @@ function one() {
 
 one();
 
-two = (a, b)=>{
+arrow = (a, b)=>{
     console.log(a+b);
 }
 
-two(1,2);
+arrow(1,2);
